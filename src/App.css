@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+
+.sec{
+  background-color: yellowgreen;
+  margin-top: 10vmin;
+  margin-right: 3%;
+  border-radius: 2%;
+}
+
+.IdLibre{
+  width:350px;
+  height: 360px;
+}
+
+.titleP{
+  color: #fff;
+  font-size: 1cm;
+}
